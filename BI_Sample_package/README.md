@@ -1,4 +1,4 @@
-# BI & Reporting Demo-Paket — Lürssen-Anpassung (Demo)
+# BI & Reporting Demo-Paket —  (Demo)
 
 Dieses Paket enthält ein vollständiges, lauffähiges Demo-Projekt, das typische Aufgaben einer Data Analyst (BI & Reporting) Rolle abbildet:
 - ETL aus Quellsystemen (Demo-SQLite), Datenbereinigung und -modellierung
