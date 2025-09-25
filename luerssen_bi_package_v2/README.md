@@ -1,5 +1,5 @@
 
-# Erweiterte BI & Reporting Demo (Lürssen-Anpassung)
+# Erweiterte BI & Reporting Demo 
 
 Dieses Paket demonstriert eine kleine, aber vollständige BI-Pipeline:
 - ETL aus Quellsystemen (SQLite demo)
@@ -25,6 +25,3 @@ Dieses Paket demonstriert eine kleine, aber vollständige BI-Pipeline:
 - KPI-Definition: completion_rate, avg_lead_days, cost_total, defects_total
 - Reporting: CSV/Excel/Parquet exports + HTML dashboard suitable for screenshots
 
-## Bewerbungsnutzung
-- Fügen Sie `outputs/kpi_export.csv` und `outputs/dashboard.html` als Anhang oder Screenshots zu Ihrer Bewerbung hinzu.
-- Verweisen Sie in Anschreiben auf `config.json` und `data_dictionary.md`, um Ihre strukturierte Arbeitsweise zu zeigen.
