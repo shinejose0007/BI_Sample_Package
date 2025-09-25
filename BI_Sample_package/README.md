@@ -44,4 +44,6 @@ Dieses Demo-Paket demonstriert Kernanforderungen der ausgeschriebenen Stelle:
 - In produktiven Umgebungen: Orchestrator (Airflow / Prefect), Logging, Monitoring, Tests, und strukturierte Data Dictionary-Dokumentation ergänzen.
 - Für Qlik: CSV oder Parquet als Datenquelle möglich; für große Datenmengen Parquet/SQL-DB bevorzugen.
 
-
+## Bewerbungsnutzung
+- Fügen Sie `kpi_export.csv` und `dashboard.html` als Anhang oder Screenshot in Ihre Bewerbung ein (oder verlinken Sie GitHub).
+- Nennen Sie in Ihrem Anschreiben kurz, welche KPIs Sie definiert haben und wie die Pipeline Datenqualität sicherstellt.
